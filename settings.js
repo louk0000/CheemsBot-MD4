@@ -54,15 +54,15 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['212661809542'] //ur owner number
-global.ownername = "لقمان لمﺮاڪشي هه" //ur owner name
+global.vcardowner = ['212609493719'] //ur owner number
+global.ownername = "لقمان لمࢪاڪشي هه" //ur owner name
 global.ytname = "YT: Xeon" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['212661809542']
-global.ownertag = '212661809542' //ur tag number
+global.owner = ['212609493719']
+global.ownertag = '212609493719' //ur tag number
 global.botname = 'LO9MANE' //ur bot name
 global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
@@ -106,15 +106,15 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
+    admin: 'هاد لميزة خاصة هيࢪ بلأدمين هه😻!',
     botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
+    owner: 'هاد لميزة خاصة هير بالمطوࢪ ديال لبوت😻!',
+    group: 'هاد لميزة خاصة هيࢪ بالڪࢪوبات!',
     private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
-    wait: 'In process...',
-    linkm: 'Where is the link?',
-    error: 'Error!!',
+    bot: 'هاد لميزة ڪيديرها هيࢪ لبوت هه😻',
+    wait: 'تسنا لحفضڪ❤️‍🔥❤️‍🔥...',
+    linkm: 'فيناهو ليان لي بيتي تشارجي؟؟؟?',
+    error: 'خطأ عاود مرة اخࢪۍ!!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
