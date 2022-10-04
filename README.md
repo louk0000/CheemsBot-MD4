@@ -15,7 +15,7 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 
 ------
 
-# ```Bot Info```
+# ```Bot Info🤤🥺```
 <p align="center">
 <a href="https://github.com/DGXeon/followers"><img title="Followers" src="https://img.shields.io/github/followers/DGXeon?color=red&style=flat-square"></a>
 <a href="https://github.com/DGXeon/CheemsBot-MD4/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DGXeon/CheemsBot-MD4?color=blue&style=flat-square"></a>
@@ -31,14 +31,14 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 
 -------
 
-## ```Connect With Me```
+## ```Connect With Me😻```
 <p align="center">
 <a href="https://wa.me/212661809542"><img src="https://img.shields.io/badge/Contact Xeon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A"><img src="https://img.shields.io/badge/Subscribe Xeon-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+<a href="https://chat.whatsapp.com/D36CBJd7nlSAyD1pqMN3tL"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://youtu.be/aSNQVNHgCqo"><img src="https://img.shields.io/badge/Subscribe Xeon-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 </p>
 
-## ```Donate Me```
+## ```Donate Me❤️‍🔥❤️‍🩹```
 
 - [`FamPay`](https://telegra.ph/file/20c591ae129d2ab3a1bc9.jpg)
 
@@ -46,7 +46,7 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe and FamPay.
 </p>
 
-## ```Bot Support Groups```
+## ```Bot Support Groups😻❤️‍🔥```
 
 - [`1st GC`](https://chat.whatsapp.com/D36CBJd7nlSAyD1pqMN3tL)
 - [`2nd GC`](https://chat.whatsapp.com/D36CBJd7nlSAyD1pqMN3tL)
@@ -61,11 +61,11 @@ Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe 
 
 ## `SETTINGS`
 
-- CHANGE OWNER NUMBER VCARD [Here](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L58)
-- CHANGE OWNER NUMBER MENU [Here](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L65)
-- CHANGE OWNER NUMBER TAG [Here](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L66)
-- CHANGE OWNER NAME [Here](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L59)
-- CHANGE BOT NAME [Here](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L67)
+- CHANGE OWNER NUMBER VCARD😻 [Here](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L58)
+- CHANGE OWNER NUMBER MENU😻 [Here](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L65)
+- CHANGE OWNER NUMBER TAG😻 [Here](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L66)
+- CHANGE OWNER NAME😻 [Here](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L59)
+- CHANGE BOT NAME😻 [Here](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L67)
 
 ## ` BUILDPACKS`
 
